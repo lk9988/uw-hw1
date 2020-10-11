@@ -13,13 +13,13 @@ http://lk9988.github.io/uw-hw1
 ## Compare changes
 
 original html
-![original html](./
+![original html](./assets/images/screenshot/original_html.png)
 
 new html
-(./assets/./images/screenshot/new html.png)
+![new html](./assets/images/screenshot/new_html.png)
 
 original css
-(./assets/./images/screenshot/original css.png)
+![original css](./assets/images/screenshot/original_css.png)
 
 new css
-(http://lk9988.github.io/uw-hw1/assets/images/screenshot/new css.png)
+![new css](./assets/images/screenshot/new_css.png)
