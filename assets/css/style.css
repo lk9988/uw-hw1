@@ -25,6 +25,7 @@ body {
   color: #d9dcd6;
 }
 
+/* changed selector to match html  */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
